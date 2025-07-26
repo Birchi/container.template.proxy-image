@@ -1,7 +1,7 @@
 # General
 ## Description
 ## Scripts
-### Build
+### Pull
 ```
 ./scripts/pull.sh --name my_image --version latest --registry docker.io --registry-image-name registry_image --registry-image-version latest
 ```
